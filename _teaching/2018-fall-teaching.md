@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2018-fall-teaching
 venue: "Indiana University Bloomington, Luddy SICE"
-date: 2018 Fall to 2020 Fall
+date: 2018-08-01
 location: "Bloomington, Indiana"
 ---
 
