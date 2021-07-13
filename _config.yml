@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Selahattin Akkas - Academic Web Page"
+title                    : "Selahattin Akkas"
 title_separator          : "-"
 name                     : &name "Selahattin Akkas"
 description              : &description "PhD Student of Intelligent Systems Enginerring (Computer Eng. Major) at Indiana Univerity Bloomington"
