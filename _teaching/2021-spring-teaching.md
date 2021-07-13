@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning for Signal Processing"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2021-spring-teaching
 venue: "Indiana University Bloomington, Luddy SICE"
 date: 2021-01-18
