@@ -15,13 +15,15 @@ Research Interests
 
 Education
 ======
-* Ph.D. Student,  Intelligent Systems Engineering (GPA: 3.93/4.0), Indiana University, Bloomington, Indiana/USA (2018 - )
-* M.Sc., Computer Engineering (GPA:4.0/4.0), Pamukkale University, Denizli/Turkey.
-Thesis Title: ”Solving Quadratic Assignment Problem Using Simulated Annealing and Parallel Programming”,
-Supervisor: Prof. Kadir Kavaklioglu (2013-2016)
-* B.S, Computer Engineering (GPA:3.37/4.0), Pamukkale University, Denizli/Turkey (2009-2013)
-* ERASMUS Exchange Student, Faculty Of Automatic Control, Electronics And Computer
-Science, Silesian University of Technology, Gliwice/Poland (2011 Spring)
+* Ph.D. Student,  Intelligent Systems Engineering, Indiana University, Bloomington, Indiana, USA (2018 - )
+  * GPA: 3.93/4.0
+* M.Sc., Computer Engineering, Pamukkale University, Denizli, Turkey.
+  * GPA:4.0/4.0
+  * Thesis Title: ”Solving Quadratic Assignment Problem Using Simulated Annealing and Parallel Programming”
+  * Supervisor: Prof. Kadir Kavaklioglu (2013-2016)
+* B.S, Computer Engineering, Pamukkale University, Denizli, Turkey (2009-2013)
+  * GPA:3.37/4.0
+* ERASMUS Exchange Student, Faculty Of Automatic Control, Electronics And Computer Science, Silesian University of Technology, Gliwice/Poland (2011 Spring)
 
 
 Work experience
