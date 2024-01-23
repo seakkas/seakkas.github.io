@@ -11,12 +11,12 @@ redirect_from:
 
 Research Interests
 ======
-* Deep Learning, GraphML, Machine Learning
+* Deep Learning, GraphML, Machine Learning, Computer Vision, Big Data Analytics, High-Performance Computing
 
 Education
 ======
-* Ph.D. Student (2018 - ),  Intelligent Systems Engineering, Indiana University, Bloomington, Indiana, USA
-  * GPA: 3.93/4.0
+* Ph.D. Candidate (2018 - ),  Intelligent Systems Engineering, Indiana University, Bloomington, Indiana, USA
+  * GPA: 3.95/4.0
   * Supervisor: Prof. Ariful Azad
 * M.Sc. (2013-2016), Computer Engineering, Pamukkale University, Denizli, Turkey.
   * GPA:4.0/4.0
@@ -29,10 +29,10 @@ Education
 
 Work experience
 ======
-* Fall 2018 to ... (ongoing): Associate Instructor
+* Fall 2018 to ... (ongoing): Research Assistant/Associate Instructor
   * Indiana University
 
-* Fall 2013 to Spring 2018: Teaching Assistant
+* Fall 2013 to Spring 2018: Research Assistant
   * Pamukkale University
 * 11/2011 - 6/2013: Part Time Web Developer
   * Pamukkale University, IT Department, Denizli.
