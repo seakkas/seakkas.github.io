@@ -17,4 +17,4 @@ __I am actively looking for an internship.__
 
 ## Recent News
 
-- [01/23/204] My work "[GNNShap: Fast and Accurate GNN Explanations using Shapley Values](https://arxiv.org/ftp/arxiv/papers/2401/2401.04829.pdf)" has been accepted as a conference paper at the ACM Web Conference 2024.
+- [01/23/2024] My work "[GNNShap: Fast and Accurate GNN Explanations using Shapley Values](https://arxiv.org/ftp/arxiv/papers/2401/2401.04829.pdf)" has been accepted as a conference paper at the ACM Web Conference 2024.
