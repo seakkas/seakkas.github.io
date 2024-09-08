@@ -10,9 +10,10 @@ redirect_from:
 
 
 
-I am a Ph.D. candidate of Intelligent Systems Engineering (ISE) at Indiana University (IU) School of Informatics, Computing, and Engineering. I am advised by [Prof. Ariful Azad](https://arifulazad.com). My research interests are Deep Learning, GraphML, Machine Learning, Computer Vision, Big Data Analytics and High-Performance Computing.
+I am a Ph.D. candidate in Intelligent Systems Engineering at the Indiana University School of Informatics, Computing, and Engineering, supervised by [Prof. Ariful Azad](https://arifulazad.com). My research focuses on Deep Learning, Machine Learning, Graph Neural Networks, Explainable AI, Object Detection, and High-Performance Computing.
 
-__I am actively looking for an internship.__
+__I am actively seeking full-time positions and anticipate graduating in January 2025.__
+
 
 
 ## Recent News
