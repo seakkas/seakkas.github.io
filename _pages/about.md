@@ -12,8 +12,6 @@ redirect_from:
 
 I am a Ph.D. candidate in Intelligent Systems Engineering at the Indiana University School of Informatics, Computing, and Engineering, supervised by [Prof. Ariful Azad](https://arifulazad.com). My research focuses on Deep Learning, Machine Learning, Graph Neural Networks, Explainable AI, Object Detection, and High-Performance Computing.
 
-__I am actively seeking full-time positions and anticipate graduating in January 2025.__
-
 
 
 ## Recent News
