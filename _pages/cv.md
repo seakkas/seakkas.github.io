@@ -15,8 +15,9 @@ Research Interests
 
 Education
 ======
-* Ph.D. Candidate (2018 - ),  Intelligent Systems Engineering, Indiana University, Bloomington, Indiana, USA
-  * GPA: 3.95/4.0
+* Ph.D. (2018 - 2025),  Intelligent Systems Engineering, Indiana University, Bloomington, Indiana, USA
+  * GPA: 3.96/4.0
+  * Thesis Title: ”Fast and Accurate Explanations of Graph Neural Networks"
   * Supervisor: Prof. Ariful Azad
 * M.Sc. (2013-2016), Computer Engineering, Pamukkale University, Denizli, Turkey.
   * GPA:4.0/4.0
@@ -29,9 +30,10 @@ Education
 
 Work experience
 ======
-* Fall 2018 to ... (ongoing): Research Assistant/Associate Instructor
+* June 2023: Research Scientist at Meta
   * Indiana University
-
+* Fall 2018 to Spring 2025: Research Assistant/Associate Instructor
+  * Indiana University
 * Fall 2013 to Spring 2018: Research Assistant
   * Pamukkale University
 * 11/2011 - 6/2013: Part Time Web Developer
