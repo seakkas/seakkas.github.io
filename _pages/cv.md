@@ -30,7 +30,7 @@ Education
 
 Work experience
 ======
-* June 2023: Research Scientist at Meta
+* June 2025: Research Scientist at Meta
   * Indiana University
 * Fall 2018 to Spring 2025: Research Assistant/Associate Instructor
   * Indiana University
